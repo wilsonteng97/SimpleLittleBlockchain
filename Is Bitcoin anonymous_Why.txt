@@ -1,0 +1,9 @@
+This is a tricky question.
+
+For the layman user who employs mixer services or eWallets and doesn't bother to research what happens beyond the hood, he may be inclined to say Bitcoin is anonymous. 
+
+A better answer would be, Bitcoin is psuedo-anonymous. Regardless of what  services you use to mask your identity, if only ONE can be traced to you, your entire transaction history will be left to scrutinization by everyone (with access to the internet). This is ironically or unironically, thanks to the transparent and immutable nature of the Bitcoin ledger which is a another radical yet innovative feature of blockchain(Eg. promoting transparency in govt spending by traccking transactions).
+
+To elaborate on why Bitcoin is not anonymusly fool-proof even through the use of additional privacy protections, we shall explore the use mixers as an example. Mixers only serve to re-anonymize addresses but there are risks(and costs) involved as mixers services may keep your user data, defeating the purpose and cannot be held accountable if you do not get your Bitcoins back. Also, they only work if your Bitcoins make up only a small proportion of the pool they have. But more importantly, for someone looking to stay anonymous, using mixer services will only flag your address as suspicious by regulatories and hence only invite more investigation into your address. From there, the careless users may have their IP address phished and common web trackers that send information to Google, Facebook, etc can be analysed to derive sensitive/identifiable information.
+
+In summary, an advanced user who takes precautions to prevent/cut off any traces to their identity is theoretically able to remain anonymous but the layman unlikely to.
